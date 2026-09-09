@@ -1,0 +1,12 @@
+num = 7
+while True:
+    choosen number = int(input("Guess the number (1-10): "))
+    if:
+       choosen number==num
+        print("you guessed it correct")
+        break
+    elif:
+       choosen number < num
+        print("guess higher")
+    else:
+        print("guess lower")
